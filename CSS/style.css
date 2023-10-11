@@ -67,6 +67,7 @@ body {
     /* Barra */
     list-style-type: none;
     margin: 180px;
+    margin-top: -20px;
     
     position: relative;
     bottom: 150px;
