@@ -36,6 +36,7 @@ body {
 
 #Detalhes-Topo{
     display: flex;
+    margin-bottom: 10px;
 }
 
 #Logo-Zeus {
@@ -67,7 +68,6 @@ body {
     /* Barra */
     list-style-type: none;
     margin: 180px;
-    margin-top: -50px;
     
     position: relative;
     bottom: 150px;
