@@ -65,7 +65,7 @@ body {
     list-style-type: none;
     margin: 0 180px;
     
-   /* position: relative;*/
+    position: relative;
    
    /* display: inline-flex;*/
    /* justify-content: space-around;*/
